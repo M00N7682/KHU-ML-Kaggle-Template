@@ -29,13 +29,13 @@ Logistic Regression과 KNN 알고리즘을 기반으로, 다양한 하이퍼파�
 
 ## 📚 사용 기술
 
-- Python (Scikit-Learn, Optuna)
+- Python (Scikit-Learn, Optuna ..)
 - Jupyter Notebook
 - pandas, numpy 등 기본 라이브러리
 
 ---
 
-## 🙋‍♂️ 만든 사람
+## 🙋‍♂️ 사용 용도
 
 - 경희대학교 경영학과 머신러닝 중간고사 Kaggle 실기 준비용  
 - 더 많은 알고리즘 추가 예정 (SVM, RandomForest 등)
