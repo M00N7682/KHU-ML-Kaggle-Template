@@ -24,7 +24,8 @@ Logistic Regression과 KNN 알고리즘을 기반으로, 다양한 하이퍼파�
 ---
 
 ## 💡 파일 설명
-| `KHU_ML_Midterm_Logistic_Version.ipynb` | 로지스틱 회귀 기반 최적화 템플릿 |
+| `KHU_ML_Midterm_Logistic_Version.ipynb` | 로지스틱 회귀 기반 최적화 템플릿 | 
+
 | `KHU_ML_Midterm_KNN_Version.ipynb` | KNN 기반 최적화 템플릿 |
 
 ## 📚 사용 기술
