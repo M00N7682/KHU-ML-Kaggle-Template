@@ -1,6 +1,5 @@
 # ML Midterm Kaggle Template 🧠📊
 
-학교 머신러닝 과목 중간고사 오픈북 시험 대비를 위한 **Kaggle-style 문제 해결 템플릿**입니다.  
 Logistic Regression과 KNN 알고리즘을 기반으로, 다양한 하이퍼파라미터 튜닝 기법을 적용하여 최적 성능을 찾아 test set을 예측하고 제출 파일까지 만드는 전 과정을 포함합니다.
 
 ---
@@ -36,9 +35,6 @@ Logistic Regression과 KNN 알고리즘을 기반으로, 다양한 하이퍼파�
 
 ---
 
-## 🙋‍♂️ 사용 용도
-
-- 경희대학교 경영학과 머신러닝 중간고사 Kaggle 실기 준비용  
 - 더 많은 알고리즘 추가 예정 (SVM, RandomForest 등)
 
 ---
