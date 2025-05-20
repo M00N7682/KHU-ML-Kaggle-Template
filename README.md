@@ -1,6 +1,6 @@
 # ML Midterm Kaggle Template 🧠📊
 
-Logistic Regression과 KNN 알고리즘을 기반으로, 다양한 하이퍼파라미터 튜닝 기법을 적용하여 최적 성능을 찾아 test set을 예측하고 제출 파일까지 만드는 전 과정을 포함합니다.
+Logistic Regression과 KNN 알고리즘을 기반으로, 다양한 하이퍼파라미터 최적화 튜닝 기법을 적용하여 최적 성능을 찾아 test set을 예측하고 제출 파일까지 만드는 전 과정을 포함합니다.
 
 ---
 
@@ -37,7 +37,4 @@ Logistic Regression과 KNN 알고리즘을 기반으로, 다양한 하이퍼파�
 
 - 더 많은 알고리즘 추가 예정 (SVM, RandomForest 등)
 
----
-
-제가 오픈북 시험에 활용하기 위해 만든 자료입니다.  
-Fork해서 자유롭게 쓰고, 데이터셋만 바꿔서 제출하세요!
+--
